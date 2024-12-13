@@ -2,7 +2,7 @@
 ## Tested Environment:
     Tensorflow 2.17
     Ryzen 3900
-    GPU 3090
+    NVIDIA GPU 3090
 ## Code Flow
     Load the MNST Image Data (to classify number 0 to 9)
     Define Deep learning model - CNN (Convolution Neuro Network) 
