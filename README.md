@@ -9,9 +9,12 @@
     Training the Model in CPU and GPU separately
     Compare the time used by CPU and GPU
 ## Training Process
-    Forward Propagation: Data flows from the input to output layer, applying weights and activation functions.
-    Loss Calculation: Compares predicted output with actual labels.Backpropagation: Adjusts weights to minimize loss.
-    Optimization: Uses Adam optimizer to update weights and biases.
+    Forward Propagation: 
+        Data flows from the input to output layer, applying weights and activation functions.
+    Loss Calculation: 
+        Compares predicted output with actual labels.Backpropagation: Adjusts weights to minimize loss.
+    Optimization: 
+        Uses Adam optimizer to update weights and biases.
 ## Brief of Deep Learning Model Defined:
     Input Layer: 
         Shape: (28, 28, 1)
