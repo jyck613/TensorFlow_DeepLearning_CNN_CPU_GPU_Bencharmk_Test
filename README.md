@@ -1,4 +1,5 @@
 # TensorFlow_DeepLearning_CNN_CPU_GPU_Bencharmk_Test
+Youtube video: [code walktrhough](https://youtu.be/-GViDJSmuPI)
 ## Tested Environment:
     Tensorflow 2.17
     Ryzen 3900
